@@ -1,0 +1,17 @@
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/Technical-Project
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/Technical-Project.deps.json
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/Technical-Project.runtimeconfig.json
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/Technical-Project.dll
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/Technical-Project.pdb
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.AssemblyInfoInputs.cache
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.AssemblyInfo.cs
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.csproj.CoreCompileInputs.cache
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.dll
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/refint/Technical-Project.dll
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.pdb
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.genruntimeconfig.cache
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/ref/Technical-Project.dll
+/Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/CsvHelper.dll
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.csproj.AssemblyReference.cache
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.csproj.CopyComplete

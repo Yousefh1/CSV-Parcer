@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/youssoufhassan/Desktop/Technical-Project/Technical-Project.csproj": {}
+  },
+  "projects": {
+    "/Users/youssoufhassan/Desktop/Technical-Project/Technical-Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/youssoufhassan/Desktop/Technical-Project/Technical-Project.csproj",
+        "projectName": "Technical-Project",
+        "projectPath": "/Users/youssoufhassan/Desktop/Technical-Project/Technical-Project.csproj",
+        "packagesPath": "/Users/youssoufhassan/.nuget/packages/",
+        "outputPath": "/Users/youssoufhassan/Desktop/Technical-Project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/youssoufhassan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

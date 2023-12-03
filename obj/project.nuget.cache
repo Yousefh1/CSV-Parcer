@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALeKeX5rxg85YYOnar1uBOQi2n60SKWdqGrX1FGuLZM/kBGjN2J5sP16oE8HUax7OoaE9rCjgawcSPsSzlfYAg==",
+  "success": true,
+  "projectFilePath": "/Users/youssoufhassan/Desktop/Technical-Project/Technical-Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/youssoufhassan/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
