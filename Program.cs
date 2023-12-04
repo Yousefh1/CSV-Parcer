@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using CsvHelper;
+using System.Text.RegularExpressions;
 
 class Program
 {
@@ -82,9 +83,19 @@ class Program
         Console.WriteLine(string.Join(Environment.NewLine, emails));
     }
 
-    static bool IsValidEmail(string email)
-    {
-        // Check if the email ends with "@gdcit.com"
-        return email.EndsWith("@gdcit.com", StringComparison.OrdinalIgnoreCase);
-    }
+  static bool IsValidEmail(string email)
+{
+    // Use a simple regular expression for email validation
+    string pattern = @"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$";
+    Regex regex = new Regex(pattern);
+    
+    // Check if the email matches the regular expression pattern
+    bool isEmailValid = regex.IsMatch(email);
+
+    // Optionally, you can add specific domain-based validation
+    bool isGdcitEmail = email.EndsWith("@gdcit.com", StringComparison.OrdinalIgnoreCase);
+
+    // Return true if the email is valid based on the regular expression and domain check
+    return isEmailValid && isGdcitEmail;
+}
 }

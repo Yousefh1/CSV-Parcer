@@ -15,3 +15,4 @@
 /Users/youssoufhassan/Desktop/Technical-Project/bin/Debug/net8.0/CsvHelper.dll
 /Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.csproj.AssemblyReference.cache
 /Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.csproj.CopyComplete
+/Users/youssoufhassan/Desktop/Technical-Project/obj/Debug/net8.0/Technical-Project.sourcelink.json
