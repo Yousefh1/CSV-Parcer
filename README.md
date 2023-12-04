@@ -28,17 +28,19 @@ This console application validates email addresses from a CSV file, categorizing
 
    ```bash
    git clone https://github.com/Yousefh1/Technical-project.git
+   ```
 
 ## Example
+
 Enter the CSV file name:
 sample_data.csv
 
-File 'sample_data.csv' found at: /path/to/your/project/sample_data.csv
+- File 'sample_data.csv' found at: /path/to/your/project/sample_data.csv
 
-Valid Email Addresses:
-test@gdcit.com
-another_test@gdcit.com
+- Valid Email Addresses:
+- test@gdcit.com
+- another_test@gdcit.com
 
-Invalid Email Addresses:
-test1@gmail.com
-test2@hotmail.com
+- Invalid Email Addresses:
+- test1@gmail.com
+- test2@hotmail.com
